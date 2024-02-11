@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartick Chauhaan</h1>
-<h3 align="center">A passionate and Enthusiastic Cyber Security handler</h3>
+<h3 align="center">A passionate and Enthusiastic Data handler aka Data Science-Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartick1402&label=Profile%20views&color=0e75b6&style=flat" alt="kartick1402" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/kartick_14" target="blank"><img src="https://img.shields.io/twitter/follow/kartick_14?logo=twitter&style=for-the-badge" alt="kartick_14" /></a> </p>
 
-- 🔭 I’m currently working on **Steganographic Model**
+- 🔭 I’m currently working on **Data Science Models**
 
-- 🌱 I’m currently learning **Azure Services and Cyber Security**
+- 🌱 I’m currently learning **Azure Services and Data Science**
 
-- 👯 I’m looking to collaborate on **Cyber Security/Ethical Hacking Projects**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 🤝 I’m looking for help with **Cyber Security Experts**
+- 🤝 I’m looking for help with **Data Science Experts**
 
-- 💬 Ask me about **GDSC, Cyber Security**
+- 💬 Ask me about **GDSC, Data, Cyber Security**
 
 - 📫 How to reach me **viberkoder14@gmail.com**
 
